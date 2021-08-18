@@ -27,7 +27,7 @@ passrab = ""
 
 
 
-####---Clear Functions kinda usefull but also retared---####
+####---Clear Functions---####
 def clear():
   
     # for windows
@@ -38,7 +38,7 @@ def clear():
     else:
         _ = system('clear')
 
-####---Retarded counter---####
+####---counter---####
 counter = 0
 ####---Colored Text---####
 def colored(r, g, b, text):
@@ -235,7 +235,7 @@ while opts == 1:
     break
 
     
-#For Loop for finding out amount, length messurements, and opening and writing the file that took me fucking ages
+#For Loop for finding out amount, length messurements, and opening and writing the file that took me ages
 
 amount = int(input("Number of Passwords "))
 min_length = int(input("Minimum Length of Passwords "))
