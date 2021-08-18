@@ -1,5 +1,5 @@
 Hello! welcome to my git page, I want to introduce my self first.
-I am a novice coder that learned python3 2 years ago and only known most of the basics.
+I am a coder that learned python3 2 years ago and only known most of the basics.
 I am a highschool student and wanted to post some of my random project ideas here and why not.
 **I am however NOT RESPONSABLE FOR ANY MISUSE of my code/projects for illegal or explicit purposes, or any damage caused to the system.**
 I will take constructive criticism on new methods of improving my code but I am still a novice just keep that in mind.
