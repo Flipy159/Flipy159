@@ -39,7 +39,7 @@ def clear():
     else:
         _ = system('clear')
 
-####---Retarded counter---####
+####---counter---####
 counter = 0
 ####---Colored Text---####
 def colored(r, g, b, text):
